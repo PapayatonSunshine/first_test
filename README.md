@@ -1,2 +1,3 @@
-# first_test
-Introduction steps.
+- GitHub Introduction Steps
+
+Are about to commit changes.
